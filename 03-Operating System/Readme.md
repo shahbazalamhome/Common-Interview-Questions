@@ -1,1 +1,1 @@
-Important OPerating System interview question & answers
+Important Operating System interview question & answers
